@@ -1,0 +1,5 @@
+com\example\newproject\NewprojectApplication.class
+com\example\repository\AppRepository.class
+com\example\entity\AppEntity.class
+com\example\controller\AppController.class
+com\example\service\Sevice.class
